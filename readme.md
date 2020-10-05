@@ -5,8 +5,6 @@
   * Distruição através do Docker Hub
   * Criação de container com imagem
   * Utilização do Azure App Service
-* Aula 02 - Terça-feira (29/09/2020)
-
 # Como Executar?
 Na raiz do projeto:
 ```
